@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, Seja Bem-Vindo ao meu Github
 
-<!--
-**Thorkrz/Thorkrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📕 -  Estudante de Python<b>
 
-Here are some ideas to get you started:
+Discord: Thor_криптонит#3277
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thorkrz&theme=aura&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thorkrz&layout=compact&theme=aura">
+  
+</div>
+<br>
+<img aling="center" alt="Thorkrz-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+          
