@@ -2,7 +2,6 @@
 
 📕 -  Estudante de Python<b>
 
-Discord: Thor_криптонит#3277
 
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thorkrz&theme=aura&show_icons=true">
