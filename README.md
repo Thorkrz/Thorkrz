@@ -1,6 +1,7 @@
 ### Olá, Seja Bem-Vindo ao meu Github
 
-📕 -  Estudante de Python<b>
+📕 -  Estudante de Python<b> 
+📕 -  Estudante de SQL<b> 
 
 
 <div> 
