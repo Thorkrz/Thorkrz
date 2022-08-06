@@ -9,5 +9,5 @@
   
 </div>
 <br>
-<img aling="center" alt="Thorkrz-Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="Python"/></code>
           
