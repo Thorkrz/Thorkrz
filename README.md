@@ -1,7 +1,7 @@
 ### Olá, Seja Bem-Vindo ao meu Github
 
 🐍 -   **Estudante de Python**<br>
-🏦 -   **Estudante de MYSQL**
+🏦 -    **Estudante de MYSQL**
 
 
 <div> 
