@@ -1,7 +1,8 @@
 ### Olá, Seja Bem-Vindo ao meu Github
 
 🐍 -   **Estudante de Python**<br>
-🏦 -    **Estudante de SQL**
+🏦 -    **Estudante de SQL** <br>
+💻 - **Estudante de C#**
 
 
 <div> 
@@ -11,5 +12,7 @@
 </div>
 <br>
 <code><img height="53" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="Python"/></code>
-<code><img height="53" src="https://static.thenounproject.com/png/15201-200.png" alt="SQL"/></code>
+<code><img height="53" src="https://static.thenounproject.com/png/15201-200.png" alt="SQL"/></code> 
+<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C"/></code> 
+
           
