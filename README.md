@@ -12,7 +12,8 @@
 </div>
 <br>
 <code><img height="53" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" alt="Python"/></code>
-<code><img height="53" src="https://static.thenounproject.com/png/15201-200.png" alt="SQL"/></code> 
 <code><img height="53" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C"/></code> 
+<code><img height="53" src="https://static.thenounproject.com/png/15201-200.png" alt="SQL"/></code> 
+
 
           
