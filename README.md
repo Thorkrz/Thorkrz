@@ -1,8 +1,15 @@
 ### Olá, Seja Bem-Vindo ao meu Github
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-🐍 -   **Estudante de Python**<br>
-🏦 -    **Estudante de SQL** <br>
-💻 - **Estudante de C**
+<hr>
+<br>
+
+## Tecnologias que estou estudando atualmente 💻
+
+  - **Python 🐍**
+  - **SQL 🏦**
+  - **C 💻**
+
 
 
 <div> 
@@ -15,5 +22,6 @@
 <code><img height="53" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C"/></code> 
 <code><img height="53" src="https://static.thenounproject.com/png/15201-200.png" alt="SQL"/></code> 
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
           
